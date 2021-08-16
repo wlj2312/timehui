@@ -1,0 +1,27 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/index/tips",
+    "pages/index/xinxi",
+    "pages/index/mianmo",
+    "pages/index/user",
+    "pages/index/address",
+    "pages/index/addressage",
+    "pages/index/fengxiang",
+    "pages/index/tixian",
+    "pages/index/tixianlist",
+    "pages/index/reject",
+    "pages/index/team",
+    "pages/index/directlyteam",
+    "pages/index/head",
+    "pages/index/share"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "FS时光会",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "usingComponents": {}
+}

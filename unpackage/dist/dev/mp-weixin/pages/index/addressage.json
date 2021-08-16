@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "address-picker": "/components/lingdang-AddressPicker/AddressPicker"
+  }
+}

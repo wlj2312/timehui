@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "填写资料",
+  "usingComponents": {
+    "address-picker": "/components/lingdang-AddressPicker/AddressPicker"
+  }
+}

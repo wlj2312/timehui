@@ -1,0 +1,23 @@
+.contair.data-v-686bf275 {
+  border-top: 3rpx solid #cfcfcf;
+  font-size: 26rpx;
+  color: #999999;
+  padding: 0 30rpx;
+  line-height: 1;
+}
+.contair .tips-tem.data-v-686bf275 {
+  padding: 40rpx 40rpx 35rpx 25rpx;
+  border-bottom: 2rpx solid #c2c2c2;
+}
+.contair .tips-tem .tips-tem-1.data-v-686bf275 {
+  margin-bottom: 20rpx;
+}
+.contair .tips-tem .tips-tem-1 .tips-tem-time.data-v-686bf275 {
+  font-size: 28rpx;
+}
+.contair .tips-tem .tips-tem-2.data-v-686bf275 {
+  margin-bottom: 15rpx;
+  color: #333333;
+  line-height: 36rpx;
+}
+

@@ -1,0 +1,139 @@
+page.data-v-0630f88e {
+  padding-top: 40rpx;
+}
+.green.data-v-0630f88e {
+  color: #15A09D;
+}
+.content.data-v-0630f88e {
+  position: relative;
+  padding-bottom: 200rpx;
+  font-size: 26rpx;
+  color: #333333;
+}
+.anniu.data-v-0630f88e {
+  position: fixed;
+  bottom: 60rpx;
+  margin: 10rpx 14rpx 0rpx;
+  width: 720rpx;
+  height: 70rpx;
+  background: -webkit-gradient(linear, left top, right top, from(#79D4BD), color-stop(99%, #099999));
+  background: -webkit-linear-gradient(left, #79D4BD 0%, #099999 99%);
+  background: linear-gradient(90deg, #79D4BD 0%, #099999 99%);
+  border-radius: 10rpx;
+  font-size: 30rpx;
+  color: #FFFFFF;
+}
+.list.data-v-0630f88e {
+  background: #FFFFFF;
+  border: 2rpx solid #ECECEC;
+  -webkit-box-shadow: 0rpx 4rpx 6rpx 0rpx rgba(31, 91, 93, 0.1);
+          box-shadow: 0rpx 4rpx 6rpx 0rpx rgba(31, 91, 93, 0.1);
+  border-radius: 10rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 24rpx;
+  margin-top: 0;
+}
+.list .mobile.data-v-0630f88e {
+  font-size: 26rpx;
+  font-weight: 400;
+  color: #333333;
+}
+.list .wrapper.data-v-0630f88e {
+  border-bottom: 2rpx solid #f0f0f0;
+}
+.list .wrapper .address-box.data-v-0630f88e {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.list .wrapper .address-box .name.data-v-0630f88e {
+  margin-right: 30rpx;
+  font-size: 26rpx;
+  font-weight: 500;
+  color: #333333;
+}
+.list .wrapper .u-box.data-v-0630f88e {
+  margin-bottom: 20rpx;
+}
+.list .wrapper .u-box .address.data-v-0630f88e {
+  font-size: 26rpx;
+  font-weight: 500;
+  color: #333333;
+}
+.list .img3.data-v-0630f88e {
+  width: 32rpx;
+  height: 32rpx;
+}
+.list .text1.data-v-0630f88e {
+  font-size: 26rpx;
+  color: #15A09D;
+}
+.list .text.data-v-0630f88e {
+  font-size: 26rpx;
+  margin-left: 20rpx;
+}
+.list .buttom.data-v-0630f88e {
+  padding-top: 20rpx;
+}
+.list .buttom .operation.data-v-0630f88e {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.list .buttom .operation .img1.data-v-0630f88e {
+  width: 28rpx;
+  height: 28rpx;
+}
+.list .buttom .operation .img2.data-v-0630f88e {
+  width: 24rpx;
+  height: 26rpx;
+}
+.list .buttom .operation .blank.data-v-0630f88e {
+  width: 30rpx;
+}
+.icon-bianji.data-v-0630f88e {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 80rpx;
+  font-size: 40rpx;
+  padding-left: 30rpx;
+}
+.add-btn.data-v-0630f88e {
+  z-index: 95;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  position: fixed;
+  bottom: 40rpx;
+  width: 100%;
+}
+.btn.data-v-0630f88e {
+  width: 40%;
+  height: 80rpx;
+  background: -webkit-gradient(linear, left bottom, left top, from(#fa2740), to(#fe5544));
+  background: -webkit-linear-gradient(bottom, #fa2740, #fe5544);
+  background: linear-gradient(0deg, #fa2740, #fe5544);
+  border-radius: 10rpx;
+}
+

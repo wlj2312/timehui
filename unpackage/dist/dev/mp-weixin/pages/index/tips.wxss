@@ -1,0 +1,58 @@
+.contair.data-v-889995e4 {
+  position: relative;
+  margin-top: -4rpx;
+}
+.contair .img.data-v-889995e4 {
+  position: absolute;
+  top: 610rpx;
+  left: 134rpx;
+  width: 480rpx;
+  height: 240rpx;
+  z-index: -10;
+}
+.contair .member1.data-v-889995e4 {
+  width: 750rpx;
+  height: 1624rpx;
+  background-image: url(/static/img/tishi.png);
+  background-repeat: no-repeat;
+  background-size: 750rpx 1624rpx;
+}
+.contair .member1 .tips-text1.data-v-889995e4 {
+  margin: 0rpx 32rpx;
+  border: 2rpx solid #FFFFFF;
+  -webkit-box-shadow: 0rpx 0rpx 18rpx 0rpx rgba(16, 70, 70, 0.61);
+          box-shadow: 0rpx 0rpx 18rpx 0rpx rgba(16, 70, 70, 0.61);
+  border-radius: 10rpx;
+  padding: 50rpx 48rpx 40rpx 32rpx;
+  font-size: 36rpx;
+  color: #FFFFFF;
+  line-height: 48rpx;
+  letter-spacing: 4rpx;
+}
+.contair .member2.data-v-889995e4 {
+  width: 750rpx;
+  height: 1624rpx;
+  background-image: url(/static/img/yitianxiexinxi.png);
+  background-repeat: no-repeat;
+  background-size: 750rpx 1624rpx;
+}
+.contair .member2 .tips-text2.data-v-889995e4 {
+  margin: 0rpx 32rpx;
+  border: 2rpx solid #FFFFFF;
+  border-radius: 10rpx;
+  padding: 50rpx 48rpx 40rpx 32rpx;
+  font-size: 36rpx;
+  color: #FFFFFF;
+  line-height: 48rpx;
+  letter-spacing: 4rpx;
+}
+.contair .yes.data-v-889995e4 {
+  text-align: center;
+  margin-top: 40rpx;
+  font-size: 36rpx;
+  color: #FFFFFF;
+  line-height: 48rpx;
+  text-shadow: 0rpx 0rpx 18rpx rgba(16, 70, 70, 0.61);
+  z-index: 1000 ;
+}
+

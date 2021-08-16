@@ -1,0 +1,49 @@
+.contair.data-v-36601672 {
+  padding: 0 30rpx;
+  line-height: 1;
+}
+.contair .template1 .kong-img.data-v-36601672 {
+  padding-top: 150rpx;
+}
+.contair .template1 .kong-img .img.data-v-36601672 {
+  width: 332rpx;
+  height: 335rpx;
+}
+.contair .template1 .tips-text.data-v-36601672 {
+  font-size: 28rpx;
+  color: #666666;
+  text-align: center;
+  margin-top: 25rpx;
+}
+.contair .template.data-v-36601672 {
+  font-size: 28rpx;
+  color: #333333;
+  border-bottom: 2rpx solid #eaeaea;
+  padding: 40rpx 0rpx 25rpx 25rpx;
+}
+.contair .template .template-time.data-v-36601672 {
+  color: #999999;
+}
+.contair .template .template-state.data-v-36601672 {
+  color: #333333;
+  margin-top: 30rpx;
+}
+.contair .template .template-state .template-state-1.data-v-36601672 {
+  width: 120rpx;
+}
+.contair .template .template-state .template-state-2.data-v-36601672 {
+  width: 120rpx;
+}
+.contair .template .template-state .template-state-3.data-v-36601672 {
+  color: #9c0e0e;
+}
+.contair .template .template-state .template-state-3 image.data-v-36601672 {
+  width: 27rpx;
+  height: 28rpx;
+  margin-left: 10rpx;
+}
+.contair .template .template-state .template-state-4.data-v-36601672 {
+  color: #109d9b;
+  width: 120rpx;
+}
+

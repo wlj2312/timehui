@@ -1,0 +1,54 @@
+.one.data-v-203bb3a9 {
+  width: 750rpx;
+  height: 3rpx;
+  background: #999999;
+  opacity: 0.2;
+}
+.two.data-v-203bb3a9 {
+  font-size: 28rpx;
+  color: #999999;
+  padding: 0 30rpx;
+}
+.two .two-1.data-v-203bb3a9 {
+  padding: 30rpx 0 30rpx 25rpx;
+  border-bottom: 2rpx solid #EAEAEA;
+}
+.two .two-1 .two-1-title.data-v-203bb3a9 {
+  color: #666666;
+  width: 140rpx;
+  margin-right: 30rpx;
+}
+.send.data-v-203bb3a9 {
+  color: #999999;
+  padding: 10rpx;
+  border: 1rpx solid #999999;
+  opacity: 0.3;
+  border-radius: 6rpx;
+}
+.tips.data-v-203bb3a9 {
+  padding: 30rpx 55rpx 120rpx;
+}
+.tips .red.data-v-203bb3a9 {
+  font-size: 26rpx;
+  color: #9B0D0D;
+  opacity: 0.77;
+  margin-right: 10rpx;
+}
+.tips .gray.data-v-203bb3a9 {
+  font-size: 22rpx;
+  color: #999999;
+  letter-spacing: 2rpx;
+}
+.anniu.data-v-203bb3a9 {
+  margin: 0 14rpx;
+}
+.anniu .anniu-modle.data-v-203bb3a9 {
+  padding: 20rpx 330rpx;
+  background: -webkit-gradient(linear, left top, right top, from(#79D4BD), color-stop(99%, #099999));
+  background: -webkit-linear-gradient(left, #79D4BD 0%, #099999 99%);
+  background: linear-gradient(90deg, #79D4BD 0%, #099999 99%);
+  font-size: 30rpx;
+  color: #FFFFFF;
+  border-radius: 10rpx;
+}
+

@@ -1,0 +1,193 @@
+{
+	"pages": [{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "FS时光会",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/index/tips",
+			"style": {
+				"navigationBarTitleText": "FS时光会",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/index/xinxi",
+			"style": {
+				"navigationBarTitleText": "填写资料",
+				"app-plus": {
+					"titleNView": false
+				}
+
+			}
+		},
+		{
+			"path": "pages/index/mianmo",
+			"style": {
+				"navigationBarTitleText": "领面膜",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/index/user",
+			"style": {
+				"navigationBarTitleText": "个人中心",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		}, 
+		{
+			"path": "pages/index/address",
+			"style": {
+				"navigationBarTitleText": "收货地址",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		}, 
+		{
+			"path": "pages/index/addressage",
+			"style": {
+				"navigationBarTitleText": "",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		}, 
+		{
+			"path": "pages/index/fengxiang",
+			"style": {
+				"navigationBarTitleText": "分享",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/index/tixian",
+			"style": {
+				"navigationBarTitleText": "提现",
+				"app-plus": {
+					"bounce": "none", //关闭窗口回弹效果
+					"titleNView": {
+						"buttons": [ //原生标题栏按钮配置,
+							{
+								"type": "none",
+								"text": "提现记录",
+								"float": "right",
+								"color": "#333333",
+								"fontSize": "30rpx"
+							}
+						]
+					}
+				}
+			}
+		},
+		{
+			"path": "pages/index/tixianlist",
+			"style": {
+				"navigationBarTitleText": "提现记录",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+
+		}, 
+		{
+			"path": "pages/index/reject",
+			"style": {
+				"navigationBarTitleText": "驳回提示",
+				"app-plus": {
+					"titleNView": false
+				}
+			}
+		},
+		{
+			"path": "pages/index/team",
+			"style": {
+				"navigationBarTitleText": "我的团队",
+				"app-plus": {
+					"bounce": "none", //关闭窗口回弹效果
+					"titleNView": {
+						"buttons": [ //原生标题栏按钮配置,
+							{
+								"type": "none",
+								"text": "直推团队",
+								"float": "right",
+								"color": "#333333",
+								"fontSize": "30rpx"
+							}
+						]
+					}
+				}
+			}
+		},
+		{
+            "path" : "pages/index/directlyteam",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "直推团队",
+                "app-plus": {
+                	"titleNView": false
+                }
+            }
+        },
+		{
+            "path" : "pages/index/head",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "我的团长",
+				"app-plus": {
+					"titleNView": false
+				}
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/share",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "分享",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/record",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+				"app-plus": {
+					"titleNView": false
+				}
+            }
+            
+        }
+        ,{
+            "path" : "pages/index/wuliu",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		// "navigationStyle": "custom",
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "FS时光会",
+		"navigationBarBackgroundColor": "#FFFFFF",
+		"backgroundColor": "#FFFFFF"
+	}
+}
